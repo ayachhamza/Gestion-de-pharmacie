@@ -1,0 +1,23 @@
+C:\Users\Hamza's Laptop\OneDrive\Bureau\Gestion_pharmacie\PROJECT_FIN_ETUDE\bin\Debug\PROJECT_FIN_ETUDE.exe.config
+C:\Users\Hamza's Laptop\OneDrive\Bureau\Gestion_pharmacie\PROJECT_FIN_ETUDE\bin\Debug\PROJECT_FIN_ETUDE.exe
+C:\Users\Hamza's Laptop\OneDrive\Bureau\Gestion_pharmacie\PROJECT_FIN_ETUDE\bin\Debug\PROJECT_FIN_ETUDE.pdb
+C:\Users\Hamza's Laptop\OneDrive\Bureau\Gestion_pharmacie\PROJECT_FIN_ETUDE\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Hamza's Laptop\OneDrive\Bureau\Gestion_pharmacie\PROJECT_FIN_ETUDE\obj\Debug\PROJECT_FIN_ETUDE.csprojAssemblyReference.cache
+C:\Users\Hamza's Laptop\OneDrive\Bureau\Gestion_pharmacie\PROJECT_FIN_ETUDE\obj\Debug\PROJECT_FIN_ETUDE.Form1.resources
+C:\Users\Hamza's Laptop\OneDrive\Bureau\Gestion_pharmacie\PROJECT_FIN_ETUDE\obj\Debug\PROJECT_FIN_ETUDE.Properties.Resources.resources
+C:\Users\Hamza's Laptop\OneDrive\Bureau\Gestion_pharmacie\PROJECT_FIN_ETUDE\obj\Debug\PROJECT_FIN_ETUDE.csproj.GenerateResource.cache
+C:\Users\Hamza's Laptop\OneDrive\Bureau\Gestion_pharmacie\PROJECT_FIN_ETUDE\obj\Debug\PROJECT_FIN_ETUDE.csproj.CopyComplete
+C:\Users\Hamza's Laptop\OneDrive\Bureau\Gestion_pharmacie\PROJECT_FIN_ETUDE\obj\Debug\PROJECT_FIN_ETUDE.exe
+C:\Users\Hamza's Laptop\OneDrive\Bureau\Gestion_pharmacie\PROJECT_FIN_ETUDE\obj\Debug\PROJECT_FIN_ETUDE.pdb
+C:\Users\Hamza's Laptop\OneDrive\Bureau\Gestion_pharmacie\PROJECT_FIN_ETUDE\bin\Debug\Guna.UI.dll
+C:\Users\hamza\Desktop\Gestion_pharmacie\PROJECT_FIN_ETUDE\obj\Debug\PROJECT_FIN_ETUDE.csprojAssemblyReference.cache
+C:\Users\hamza\Desktop\Gestion_pharmacie\PROJECT_FIN_ETUDE\obj\Debug\PROJECT_FIN_ETUDE.exe
+C:\Users\hamza\Desktop\Gestion_pharmacie\PROJECT_FIN_ETUDE\obj\Debug\PROJECT_FIN_ETUDE.pdb
+C:\Users\hamza\Desktop\Gestion_pharmacie\PROJECT_FIN_ETUDE\bin\Debug\PROJECT_FIN_ETUDE.exe.config
+C:\Users\hamza\Desktop\Gestion_pharmacie\PROJECT_FIN_ETUDE\bin\Debug\PROJECT_FIN_ETUDE.exe
+C:\Users\hamza\Desktop\Gestion_pharmacie\PROJECT_FIN_ETUDE\bin\Debug\PROJECT_FIN_ETUDE.pdb
+C:\Users\hamza\Desktop\Gestion_pharmacie\PROJECT_FIN_ETUDE\obj\Debug\PROJECT_FIN_ETUDE.PL.LOGIN.resources
+C:\Users\hamza\Desktop\Gestion_pharmacie\PROJECT_FIN_ETUDE\obj\Debug\PROJECT_FIN_ETUDE.Properties.Resources.resources
+C:\Users\hamza\Desktop\Gestion_pharmacie\PROJECT_FIN_ETUDE\obj\Debug\PROJECT_FIN_ETUDE.csproj.GenerateResource.cache
+C:\Users\hamza\Desktop\Gestion_pharmacie\PROJECT_FIN_ETUDE\obj\Debug\PROJECT_FIN_ETUDE.csproj.CoreCompileInputs.cache
+C:\Users\hamza\Desktop\Gestion_pharmacie\PROJECT_FIN_ETUDE\obj\Debug\PROJECT_FIN_ETUDE.csproj.CopyComplete
